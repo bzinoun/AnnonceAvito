@@ -8,7 +8,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
- * Hello Avito!
+ * Hello Avito V1!
  * 
  */
 public class App {
